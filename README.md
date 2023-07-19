@@ -7,5 +7,5 @@ Linter to check if [iota](https://go.dev/ref/spec#Iota) is being used. `iota` ma
 ## Install
 
 ```shell
-go install github.com/jacoelho/noiota
+go install github.com/jacoelho/noiota@latest
 ```
